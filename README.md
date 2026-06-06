@@ -17,6 +17,7 @@ This project is an interactive web dashboard built with Streamlit that analyzes 
 
 **2. Price Prediction & Portfolio Calculator**
 *(Demonstrates the future date selection and the calculated future portfolio value.)*
+
 <img width="361" height="502" alt="image" src="https://github.com/user-attachments/assets/f65e5272-a072-4745-b21b-a6004236c769" />
 
 <img width="1755" height="435" alt="image" src="https://github.com/user-attachments/assets/e04ada7d-f553-40f1-90a1-991bc5353b8d" />
